@@ -15,7 +15,7 @@ public class Poly {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // mamadou est passé par la
+        // mamadou est passé par la 2 em fois
     }
     
 }
